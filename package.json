@@ -1,7 +1,6 @@
 {
   "name": "@nodesource/mkdtemp",
   "version": "0.0.0",
-  "private": true,
   "license": "UNLICENSED",
   "repository": "nodesource/mkdtemp",
   "description": "fs.mkdtemp from node core",
