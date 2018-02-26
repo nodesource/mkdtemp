@@ -26,7 +26,7 @@ console.log(dir) // /tmp/foo-651fe9
 ## API
 
 ### mkdtemp(prefix, callback)
-### mkdtemp(prefix)
+### mkdtemp.sync(prefix)
 
 ## License
 
