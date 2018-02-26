@@ -1,6 +1,6 @@
 # mkdtemp
 
-[`fs.mkdtemp`](https://nodejs.org/api/fs.html#fs_fs_mkdtemp_prefix_options_callback) from node core, introduced in `5.0.0`, for node v4.
+[`fs.mkdtemp`](https://nodejs.org/api/fs.html#fs_fs_mkdtemp_prefix_options_callback) from node core, introduced in `5.10.0`, for node `4.0.0` and up.
 
 This method and its synchronous counterpart will create a temporary directory with a random name, based on the prefix you're passing to them.
 
