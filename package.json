@@ -1,6 +1,6 @@
 {
   "name": "mkdtemp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "nodesource/mkdtemp",
   "description": "fs.mkdtemp from node core",
