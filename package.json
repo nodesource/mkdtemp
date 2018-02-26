@@ -1,7 +1,7 @@
 {
-  "name": "@nodesource/mkdtemp",
+  "name": "mkdtemp",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": "nodesource/mkdtemp",
   "description": "fs.mkdtemp from node core",
   "scripts": {
